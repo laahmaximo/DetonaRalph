@@ -36,7 +36,7 @@ O foco da atividade era treinar **manipulação do DOM, eventos, lógica de temp
 
 ## 🌐 Acesse Online
 Você pode jogar direto aqui:
-👉 https://seu-usuario.github.io/detona-ralph-game
+👉 https://laahmaximo.github.io/DetonaRalph/
 
 ---
 
